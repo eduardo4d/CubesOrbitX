@@ -12,6 +12,9 @@ https://eduardo4d.github.io/CubesOrbitX/?speed=100
 For example `?speed=200` runs the animation it at twice the speed  
 https://eduardo4d.github.io/CubesOrbitX/?speed=200   
 
+While `?speed=r0` halves the animation speed  
+https://eduardo4d.github.io/CubesOrbitX/?speed=50    
+
 UFRJ (Rio de Janeiro Federal University)   
 Computer Science / Computer Graphics course   
 College homework assignment.
