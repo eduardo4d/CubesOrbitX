@@ -415,7 +415,7 @@ function mainEntrance() {
   modelMatrix = new Matrix4();
 
 
-  // framerate
+  // framerate from urlParameters, default 100
   var queryString = window.location.search;
   var urlParams = new URLSearchParams(queryString);
   var speed = (urlParams.get('speed') || 100 );
