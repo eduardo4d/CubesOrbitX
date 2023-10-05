@@ -7,7 +7,7 @@ cubes orbiting around a 3D X solid shape.
 Live Demo:   
 https://eduardo4d.github.io/CubesOrbitX/?speed=100   
 
-`?speed=` changes framerate, by default `100`.
+`?speed=` url parameters changes framerate, by default `100`.
 
 For example `?speed=200` runs the animation it at twice the speed  
 https://eduardo4d.github.io/CubesOrbitX/?speed=200   
